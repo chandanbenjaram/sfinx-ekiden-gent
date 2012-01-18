@@ -1,0 +1,10 @@
+[ { "code" : "Registration",
+    "fromTime" : "2011-11-14 08:00:00.0",
+    "id" : 358,
+    "kind" : "Registration",
+    "partnerSlot" : false,
+    "room" : "Hollywood Lounge",
+    "toTime" : "2011-11-14 09:30:00.0",
+    "type" : "University"
+  }
+]

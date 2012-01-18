@@ -1,0 +1,28 @@
+[ { "MP3URL" : "rtmp://s3.parleys.com/parleys/2162/201011301226341311052.mp3",
+    "duration" : 2648.9099999999999,
+    "id" : 2162,
+    "isFree" : false,
+    "keywords" : [ { "name" : "Process" },
+        { "name" : "jBPM" },
+        { "name" : "bpm" },
+        { "name" : "activiti" }
+      ],
+    "speakers" : [ { "bio" : "Tom Baeyens is the founder and lead developer of JBoss jBPM, an open source workflow, BPM and orchestration engine. He is an employee of Red Hat and participates in the Java Community Process.",
+          "fullname" : "Tom Baeyens",
+          "id" : 468
+        },
+        { "bio" : "Joram Barrez is a Java/JEE software engineer who recently joined JBoss, a division of Red Hat, as a jBPM core developer. He is extremely passionate about anything related to BPM and workflow systems. Before JBoss, he provided jBPM consultancy for several companies on the Belgian market, so he brings a lot of practical jBPM and BPM experience to the jBPM project. Currently, he is leading the BPMN 2 effort within the jBPM project. Joram is also one of the the co-founders of the Belgium JBoss User Group (http://www.jbug.be/).",
+          "fullname" : "Joram Barrez",
+          "id" : 469
+        }
+      ],
+    "summary" : "In this session we'll demonstrate these features as well as the different components of the Activiti project.",
+    "thumbnail" : "http://a1.parleys.com/p/2162/thumb20101130122034084223.jpg",
+    "title" : "Activiti in Action",
+    "totalComments" : 1,
+    "totalDownloads" : 36,
+    "totalViews" : 814,
+    "totalVotes" : 2,
+    "totalVotesValue" : 2.5,
+    "type" : "VIDEO_AND_SLIDES"
+  }]

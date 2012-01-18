@@ -1,0 +1,19 @@
+[ { "experience" : "NOVICE",
+    "id" : 404,
+    "room" : "Room 9",
+    "speaker" : "Andres Almiray",
+    "speakerUri" : "https://cfp.devoxx.com/rest/v1/events/speakers/5",
+    "speakers" : [ { "speaker" : "Andres Almiray",
+          "speakerUri" : "https://cfp.devoxx.com/rest/v1/events/speakers/5"
+        } ],
+    "summary" : "Groovy is the fastest growing JVM language out there. It might be because it is so easy for Java developers to pick it up, but also because there's an increasing number of projects and libraries that make use of Groovy as the starting point. In this session we'll cover the following topics:\r\n- Frameworks\r\n    Grails, Griffon, Gaelyk\r\n- Build Systems\r\n    Gant, Gradle\r\n- Testing\r\n    Easyb, Spock\r\n- Code Quality\r\n    CodeNarc, GMetrics\r\n- Libraries\r\n    GPars, GContracts",
+    "tags" : [ { "name" : "grails" },
+        { "name" : "griffon" },
+        { "name" : "Gaelyk" },
+        { "name" : "GPars" }
+      ],
+    "title" : "The Groovy Ecosystem",
+    "track" : "New Languages on the JVM",
+    "type" : "University"
+  }
+]
