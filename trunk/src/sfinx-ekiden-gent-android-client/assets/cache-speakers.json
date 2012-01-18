@@ -1,0 +1,13 @@
+[ { "bio" : "Tim Rul",
+    "company" : "Test",
+    "firstName" : "Tim",
+    "id" : 1,
+    "imageURI" : "https://cfp.devoxx.com/static/images/244/thumbnail.gif",
+    "lastName" : "Rul",
+    "talks" : [ { "event" : "Ekiden",
+          "presentationUri" : "https://cfp.devoxx.com/rest/v1/events/presentations/922",
+          "title" : "Ekiden"
+        }
+      ]
+  }
+]
