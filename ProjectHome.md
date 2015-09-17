@@ -1,0 +1,1 @@
+Mobile android application for the Sfinx Ekiden Gent running event (Blaarmeersen, Ghent, Belgium)
